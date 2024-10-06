@@ -51,7 +51,7 @@ String readDHTTemperature() {
 // Define moisture return function
 String readMoisture(void) {
   int moistureValue = analogRead(MOISTURE_LEVEL_PIN);
-  int moisturePercent = map(moistureValue, 800, 3500, 100, 0);
+  int moisturePercent = map(moistureValue, 800, 3500, 0, 100);
   if (moisturePercent > 100) moisturePercent = 100;
   if (moisturePercent < 0) moisturePercent = 0;
   

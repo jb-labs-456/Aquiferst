@@ -104,9 +104,10 @@ String processor(const String& var){
   return String();
 }
 
+//Checks what LED is currently set to
 String outputState(){
   if(digitalRead(output)){
-    return "checked";
+    return "checked"; //Tells HTML Code to set the toggle/tick box as "checked"
   }
   else {
     return "";
