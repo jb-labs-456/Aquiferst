@@ -12,4 +12,4 @@ Over the 48 hours, we developed:
 Our system is intended to be simple, scalable and plug-n-play. The normalised scoring of soil quality combined with the suggested list of potential remedies provides actionable advice for farmers to take. The open-sourced and readily available hardware means this solution can be made at scale and adapted to farms from small to large scale. Finally, we will work with existing industry leaders to ensure our devices work with existing irrigation machinery to ensure it is as easy as possible for farmers to adopt the technologies for smart farming.
 
 By bridging the gap between vast datasets and practical agricultural needs, we make data, often incomprehensible, meaningful and accessible to those who need it most.
-![alt text](https://github.com/jb-labs-456/Aquiferst/blob/main/Media/Aquiferst%2Logo.jpg)
+![alt text](https://github.com/jb-labs-456/Aquiferst/blob/main/Media/Aquiferst%20Logo.jpg)
